@@ -7,8 +7,4 @@
 * [我们的价值观](https://github.com/teambition/Survival-Guide/blob/master/MembersGuide.md#我们的价值观)
 * [公开透明](https://github.com/teambition/Survival-Guide/blob/master/MembersGuide.md#公开透明)
 
-
-
 ![join us](http://vignette1.wikia.nocookie.net/fallout/images/2/21/Ninja.png/revision/latest?cb=20101126195037)
-
-### join us
